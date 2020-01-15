@@ -940,19 +940,19 @@ var data =
             "-defaultMark": "1",
             "item": [
 			  {
-                 "-Question": "1.\tThe rainy season in the Velds is from to ."
+                 "-Question": "1.\tThe rainy season in the Velds is from _______ to ________."
               },
 			  {
-                "-Question": "2.\tThe main food crop in the Prairies is ."
+                "-Question": "2.\tThe main food crop in the Prairies is _______."
               },
 			  {
-                "-Question": "3.\tThe rivers and drain the velds."
+                "-Question": "3.\tThe rivers and _______ drain the velds."
               },
 			  {
-                "-Question": "4.\tThe Rand region in the Veld is known for ."
+                "-Question": "4.\tThe Rand region in the Veld is known for _______."
               },
 			  {
-                "-Question": "5.\tThe Prairies are the temperate grasslands of .	"
+                "-Question": "5.\tThe Prairies are the temperate grasslands of _______."
               }
             ]
           },
