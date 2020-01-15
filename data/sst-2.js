@@ -2183,19 +2183,19 @@ var data =
             "-defaultMark": "1",
             "item": [
 			  {
-                "-Question": "1.\t________ was the founder of Hyderabad.\n\t (a) Asaf-ud-Daulah (b) Nizam-ul-Mulk (c) Shuja-ud-Daulah (d) Safdar Jang"
+                "-Question": "1.\t________ was the founder of Hyderabad.\n\t (a) Asaf-ud-Daulah 		(b) Nizam-ul-Mulk		 (c) Shuja-ud-Daulah 		(d) Safdar Jang"
               },
 			  {
-                "-Question": "2.\tThe Mughals after the death of Aurangzeb are known as the :\n\t (a) Late Mughals (b) Old Mughals (c) New Mughals (d) None of these"
+                "-Question": "2.\tThe Mughals after the death of Aurangzeb are known as the :\n\t (a) Late Mughals 		(b) Old Mughals 		(c) New Mughals 		(d) None of these"
               },
 			  {
-                "-Question": "3.\tNadir Shah was the king of ________.\n\t (a) Bengal (b) Hyderabad (c) Persia (d) Awadh"
+                "-Question": "3.\tNadir Shah was the king of ________.\n\t (a) Bengal 		(b) Hyderabad 		(c) Persia 		(d) Awadh"
               },
 			  {
-                "-Question": "4.\tThis was the first state to gain independence from Mughals :\n\t (a) Bengal (b) Awadh (c) Hyderabad (d) Punjab"
+                "-Question": "4.\tThis was the first state to gain independence from Mughals :\n\t (a) Bengal 		(b) Awadh 		(c) Hyderabad 		(d) Punjab"
               },
 			  {
-                "-Question": "5.\tAhmad Shah Abdali was the ruler of :\n\t (a) Hyderabad (b) Afghanistan (c) Bengal (d) Japan"
+                "-Question": "5.\tAhmad Shah Abdali was the ruler of :\n\t (a) Hyderabad 		(b) Afghanistan 		(c) Bengal 		(d) Japan"
               }
             ]
 		  },
@@ -2404,31 +2404,21 @@ var data =
             "-QType": "FillUp",
             "-Heading": "Choose the correct answer : ", 
             "-defaultMark": "1",
-            "item": [
-			  
-1. Which is the fourth largest producer of medicines?
-(a) India (b) America (c) Japan (d) France
-2. Healthcare centres are run by :
-(a) local bodies (b) central government
-(c) state government (d) all of these
-3. The latest medical facilities are available at:
-(a) primary health centres (b) government hospitals
-(c) dispensaries (d) private hospitals
-4. Health refers to :
-(a) physical state (b) mental state (c) both of these (d) none of these
-5. How many doctors qualify every year?
-(a) 10,000 (b) 15,000 (c) 20,000 (d) 25,000			  
+            "item": [			  
 			  {
-                "-Question": "1.\tThe minimum age of a person for voting in India is :\n\t (a) 16 years 		(b) 20 years 		(c) 18 years 		(d) 25 years"
+                "-Question": "1.\tWhich is the fourth largest producer of medicines?\n\t (a) India 		(b) America 		(c) Japan 		(d) France"
               },
 			  {
-                "-Question": "2.\tUniversal adult franchise means :\n\t (a) free citizens 		(b) adults have right to vote 		(c) only men have right to vote		 (d) none of these"
+                "-Question": "2.\tHealthcare centres are run by :\n\t (a) local bodies 		(b) central government 		(c) state government 		(d) all of these"
               },
 			  {
-                "-Question": "3.\tWhich is the highest level of the Government?\n\t (a) Local Government 		(b) State Government 		(c) Union Government 		(d) None of these"
+                "-Question": "3.\tThe latest medical facilities are available at:\n\t (a) primary health centres 		(b) government hospitals 		(c) dispensaries 		(d) private hospitals"
               },
 			  {
-                "-Question": "4.\tIn India, the government function at levels.\n\t (a) three		 (b) two		 (c) four 		(d) five"
+                "-Question": "4.\tHealth refers to :\n\t (a) physical state		 (b) mental state 		(c) both of these 		(d) none of these"
+              },
+			  {
+                "-Question": "5.\tHow many doctors qualify every year?\n\t (a) 10,000 		(b) 15,000 		(c) 20,000 		(d) 25,000"
               }
             ]
 		  },
